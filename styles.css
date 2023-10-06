@@ -18,6 +18,27 @@ h1 {
     max-width: 600px;
 }
 
+h2 {
+    font-size: 34px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: underline;
+    margin: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: bisque;
+}
+
+
+.description {
+    font-size: 24px;
+    text-align: center;
+    padding-bottom: 20px;
+    font-style: italic;
+    margin: auto;
+    max-width: 800px;
+}
+
 .index-list {
     font-size: 24px;
     font-weight: 500;
@@ -25,12 +46,36 @@ h1 {
     padding-left: none;
 }
 
-ul {
+#index-ul {
     list-style-type: none;
     text-align: center;
     margin: auto;
     padding: 0;
     max-width: 600px;
+}
+
+.recipe-image {
+    display: block;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    border-radius: 50%;
+}
+
+.recipe-list {
+    text-align: justify;
+    margin: auto;
+    padding: 0;
+    max-width: 800px;
+}
+
+#ingredients {
+    list-style-type: none;
+    text-align: center;
+    margin: auto;
+    padding: 0;
+    max-width: 600px;
+    padding-bottom: 20px;
 }
 
 a {
