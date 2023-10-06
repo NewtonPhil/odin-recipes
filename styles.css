@@ -1,0 +1,43 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+body {
+    background-color: #081b29;
+    color: #fff;
+}
+
+h1 {
+    font-size:60px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 25px;
+    margin: auto;
+    color: bisque;
+    max-width: 600px;
+}
+
+.index-list {
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    padding-left: none;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    margin: auto;
+    padding: 0;
+    max-width: 600px;
+}
+
+a {
+    text-decoration: none;
+    color:#fff;
+}
+
+a:hover {
+    color: pink;
+}
